@@ -1,0 +1,16 @@
+https://getcomposer.org/build/app.css?v=2
+https://getcomposer.org/build/app.js?v=3
+https://getcomposer.org/changelog/2.9.7
+https://getcomposer.org/doc/
+https://getcomposer.org/doc/00-intro.md
+https://getcomposer.org/download/
+https://getcomposer.org/sponsor/
+http://naderman.de
+https://github.com/MAXakaWIZARD
+https://github.com/composer/composer
+https://github.com/composer/composer/blob/main/LICENSE
+https://github.com/composer/composer/graphs/contributors
+https://github.com/composer/composer/issues
+https://packagist.com
+https://packagist.org/
+https://seld.be
