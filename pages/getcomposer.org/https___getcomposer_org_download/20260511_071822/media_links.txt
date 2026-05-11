@@ -1,0 +1,2 @@
+https://getcomposer.org/img/logo-composer-transparent.png
+https://getcomposer.org/img/private-packagist-logo-horizontal-2025.svg
